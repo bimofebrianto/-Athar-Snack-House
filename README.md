@@ -31,8 +31,14 @@ Athar Snack House adalah sebuah aplikasi web sederhana yang dirancang untuk mena
 # Demo Aplikasi
 Berikut adalah tampilan dari aplikasi Athar Snack House:
 Tampilan ini mencakup landing page, daftar menu, dan footer yang responsif.
+
+Tampilan Dekstop :
 [Macbook-Air-localhost-7-8bqbddwia222.webm](https://github.com/user-attachments/assets/218e022c-8aeb-4771-acf6-98ca5d7b34ab)
+
+Tampilan iPad :
 [iPad-PRO-11-localhost-mwc3ldmx1r0h-7.webm](https://github.com/user-attachments/assets/715f99f9-d3ba-42fb-a3a3-8a343405a681)
+
+Tampilan Mobile :
 [iPhone-11-PRO-MAX-localhost-uyonyorwyas5mt.webm](https://github.com/user-attachments/assets/666448cc-e8a4-4bf8-ae4d-84d567563aaa)
 
 # Catatan
