@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Athar Snack House Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Athar Snack House adalah sebuah aplikasi web sederhana yang dirancang untuk menampilkan menu makanan ringan dengan tampilan yang menarik dan responsif. Aplikasi ini berfokus pada User Interface (UI) saja, mencakup fitur seperti landing page, konten menu, navbar dengan hamburger menu untuk perangkat mobile, dan footer.
 
-## Available Scripts
+## Fitur Utama
 
-In the project directory, you can run:
+1. **Landing Page:** Tampilan halaman utama yang menarik dengan deskripsi singkat tentang Athar Snack House.  
+2. **Menu:** Daftar menu makanan lengkap dengan nama, deskripsi, harga, dan tombol "Add to Cart".  
+3. **Navbar Responsif:** Navbar dengan hamburger menu untuk tampilan yang optimal di perangkat mobile.  
+4. **Footer:** Bagian footer dengan informasi tambahan tentang aplikasi.  
 
-### `npm start`
+## Teknologi yang Digunakan
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React.js:** Untuk membangun antarmuka pengguna.  
+- **Tailwind CSS:** Untuk styling yang cepat dan fleksibel.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Cara Menjalankan
 
-### `npm test`
+1. Clone repository ini ke lokal Anda:  
+   ```bash
+   git clone https://github.com/username/athar-snack-house.git
+   cd athar-snack-house
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Instal dependensi:
+   npm install
+   
+3. Jalankan aplikasi:
+   npm start
+4. Buka di browser di http://localhost:3000.
 
-### `npm run build`
+# Demo Aplikasi
+Berikut adalah tampilan dari aplikasi Athar Snack House:
+Tampilan ini mencakup landing page, daftar menu, dan footer yang responsif.
+[Macbook-Air-localhost-7-8bqbddwia222.webm](https://github.com/user-attachments/assets/218e022c-8aeb-4771-acf6-98ca5d7b34ab)
+[iPad-PRO-11-localhost-mwc3ldmx1r0h-7.webm](https://github.com/user-attachments/assets/715f99f9-d3ba-42fb-a3a3-8a343405a681)
+[iPhone-11-PRO-MAX-localhost-uyonyorwyas5mt.webm](https://github.com/user-attachments/assets/666448cc-e8a4-4bf8-ae4d-84d567563aaa)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Catatan
+Website ini hanya berfungsi untuk menampilkan UI tanpa adanya fungsi backend atau fitur CRUD.
+Semua data yang ditampilkan bersifat statis dan tidak terhubung ke database atau API.
+Kontribusi
+Silakan buat pull request jika Anda ingin berkontribusi atau mengusulkan perubahan.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Lisensi
+Proyek ini dilisensikan di bawah MIT License.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Dibuat dengan 💡 oleh Bimo Febrianto.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
